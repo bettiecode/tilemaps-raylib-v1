@@ -1,4 +1,4 @@
-# raylib-auto-tiling-16-tileset-
+# Tilemaps Raylib V1
 tile-system, tilemap storing and loading, auto-tiling (and tilemap rendering).
 made with raylib, for a future project
 
@@ -16,3 +16,4 @@ features:
 there are many improvments to be made, but im moving on to another project
 
 remnants of unfinished features can be found inside the code
+see https://github.com/bettiecode/tilemaps-raylib-v2 for my improved version
